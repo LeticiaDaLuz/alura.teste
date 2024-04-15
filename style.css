@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #EE82EE;
-    color: white;
+    color: pink;
     display: flex;
     justify-content: space-around;
     align-items: center;
